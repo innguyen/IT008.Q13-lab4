@@ -1,0 +1,16 @@
+C:\Users\buitr\source\repos\lab4 TH\Bai03\bin\Debug\Bai03.exe.config
+C:\Users\buitr\source\repos\lab4 TH\Bai03\bin\Debug\Bai03.exe
+C:\Users\buitr\source\repos\lab4 TH\Bai03\bin\Debug\Bai03.pdb
+C:\Users\buitr\source\repos\lab4 TH\Bai03\bin\Debug\Interop.WMPLib.dll
+C:\Users\buitr\source\repos\lab4 TH\Bai03\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\buitr\source\repos\lab4 TH\Bai03\obj\Debug\Bai03.csproj.AssemblyReference.cache
+C:\Users\buitr\source\repos\lab4 TH\Bai03\obj\Debug\Interop.WMPLib.dll
+C:\Users\buitr\source\repos\lab4 TH\Bai03\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\buitr\source\repos\lab4 TH\Bai03\obj\Debug\Bai03.csproj.ResolveComReference.cache
+C:\Users\buitr\source\repos\lab4 TH\Bai03\obj\Debug\Bai03.Form1.resources
+C:\Users\buitr\source\repos\lab4 TH\Bai03\obj\Debug\Bai03.Properties.Resources.resources
+C:\Users\buitr\source\repos\lab4 TH\Bai03\obj\Debug\Bai03.csproj.GenerateResource.cache
+C:\Users\buitr\source\repos\lab4 TH\Bai03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+C:\Users\buitr\source\repos\lab4 TH\Bai03\obj\Debug\Bai03.exe
+C:\Users\buitr\source\repos\lab4 TH\Bai03\obj\Debug\Bai03.pdb
+C:\Users\buitr\source\repos\lab4 TH\Bai03\obj\Debug\Bai03.exe.config

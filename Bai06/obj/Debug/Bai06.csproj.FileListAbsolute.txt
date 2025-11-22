@@ -1,0 +1,11 @@
+C:\Users\buitr\source\repos\lab4 TH\Bai06\bin\Debug\Bai06.exe.config
+C:\Users\buitr\source\repos\lab4 TH\Bai06\bin\Debug\Bai06.exe
+C:\Users\buitr\source\repos\lab4 TH\Bai06\bin\Debug\Bai06.pdb
+C:\Users\buitr\source\repos\lab4 TH\Bai06\obj\Debug\Bai06.csproj.AssemblyReference.cache
+C:\Users\buitr\source\repos\lab4 TH\Bai06\obj\Debug\Bai06.Form1.resources
+C:\Users\buitr\source\repos\lab4 TH\Bai06\obj\Debug\Bai06.Properties.Resources.resources
+C:\Users\buitr\source\repos\lab4 TH\Bai06\obj\Debug\Bai06.csproj.GenerateResource.cache
+C:\Users\buitr\source\repos\lab4 TH\Bai06\obj\Debug\Bai06.csproj.CoreCompileInputs.cache
+C:\Users\buitr\source\repos\lab4 TH\Bai06\obj\Debug\Bai06.exe
+C:\Users\buitr\source\repos\lab4 TH\Bai06\obj\Debug\Bai06.pdb
+C:\Users\buitr\source\repos\lab4 TH\Bai06\obj\Debug\Bai06.exe.config
